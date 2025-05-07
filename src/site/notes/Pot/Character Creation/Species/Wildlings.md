@@ -20,13 +20,13 @@ Many D&D 5e race options already exist that resemble a Wildling you might want t
 	- [Elephant](http://dnd5e.wikidot.com/lineage:loxodon)
 	- [Lion](http://dnd5e.wikidot.com/lineage:leonin)
 	- [Rabbit](http://dnd5e.wikidot.com/lineage:harengon)
+	- [Hippo](http://dnd5e.wikidot.com/lineage:giff)
 - Reptiles:
 	- [Lizard](http://dnd5e.wikidot.com/lineage:lizardfolk)
 	- [Turtle](http://dnd5e.wikidot.com/lineage:tortle)
 - Birds:
 	- [Owls](http://dnd5e.wikidot.com/lineage:owlin)
 	-  [Generic](http://dnd5e.wikidot.com/lineage:aarakocra)
-
 # Customizing a Wildling
 
 If you'd like to build your own Wildling you can consult the following guide to help determine abilities. Create a Wildling using the initial racial traits and a total additional ability weight of 3-5.
