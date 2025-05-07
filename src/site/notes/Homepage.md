@@ -7,4 +7,4 @@
 - [[Pot/Character Creation/Species/Species Index\|Races/Species/Lineage]]
 - [[Pot/Character Creation/Backgrounds/Background Index\|Backgrounds]]
 ## Locations
-- [[Pot/Interactable Map of Pan\|The World Map]]
+- [[Pot/Locations/Kingdom of Pot\|Kingdom of Pot]]
