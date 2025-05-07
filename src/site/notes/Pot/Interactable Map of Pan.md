@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pot/interactable-map-of-pan/"}
 ---
 
-
+# Map of the Continent of Pan
 ```leaflet  
 id: ContenintOfPan ### Must be unique with no spaces  
 image: [[Pan Hi-Rez.png]] ### Link to the map image file. Do not add a ! in front of the image  
