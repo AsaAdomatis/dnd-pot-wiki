@@ -16,5 +16,5 @@ The following list contains homebrew races I've made specifically for campaigns 
 ## Other Species
 While any species can fit into a campaign in the Kingdom of Pot, here are some standout races, including some other homebrews I'll allow.
  - [Skeletons](https://www.dandwiki.com/wiki/Skeleton_(5e_Race))
-- [Fairies](http://dnd5e.wikidot.com/lineage:fairy)
+- [Fairies](http://dnd5e.wikidot.com/lineage:fairy) (Any)
 - [Goblins](http://dnd5e.wikidot.com/lineage:goblin) (Either Dankwood, Volo's or Mordenkainen)
