@@ -28,7 +28,7 @@
 - [[Pot/Locations/Flip\|Flip]]
 - [[Flop\|Flop]]
 - [[Waterbridge\|Waterbridge]]
-- [[Norget\|Norget]]
+- [[Pot/Locations/Norget\|Norget]]
 - [[Pot/Locations/Shoe\|Shoe]]
 - [[Pot/Locations/Slipper\|Slipper]]
 - [[Pot/Locations/Bibb\|Bibb]]
