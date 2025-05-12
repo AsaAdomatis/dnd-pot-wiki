@@ -39,7 +39,7 @@ Anything that produces smoke, noise, or stench ends up here in the industrial di
 
 ## Down Time Activities
 - Local and Regional Theatre
-- [[Brobble\|Brobble]] - The regional sport of the [[Pot/Locations/Kingdom of Pot\|Kingdom of Pot]]
+- [[Pot/Lore/Organizations/Brobble\|Brobble]] - The regional sport of the [[Pot/Locations/Kingdom of Pot\|Kingdom of Pot]]
 - 
 
 ## Festivals, Events, and Holidays

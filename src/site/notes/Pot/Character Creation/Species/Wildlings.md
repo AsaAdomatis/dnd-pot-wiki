@@ -65,6 +65,7 @@ If you'd like to build your own Wildling you can consult the following guide to 
 | Weight | AC                           |
 | 1      | 12                           |
 | 3      | 14                           |
+| 5      | 16                           |
 | 1      | 11 + DEX Mod                 |
 | 2      | 12 + DEX Mod                 |
 | 1      | 16, but you can't wear armor |
