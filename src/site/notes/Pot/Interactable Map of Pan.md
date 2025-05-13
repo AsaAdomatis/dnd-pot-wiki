@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/pot/interactable-map-of-pan/"}
 ---
 
-# Map of the Continent of Pan
+ # Map of the Continent of Pan
 ```leaflet  
 id: ContenintOfPan ### Must be unique with no spaces  
-image: [[Pan Hi-Rez.png]] ### Link to the map image file. Do not add a ! in front of the image  
+image: [[Geographical Map of Pan Hi-Rez.png]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [3072, 4096]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 55% ### Size of the leaflet embed in px on your screen  
 width: 100% ### Size of the leaflet embed in your note  

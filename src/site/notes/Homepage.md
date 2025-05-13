@@ -25,3 +25,4 @@ Pan is generally low tech, with technology only as advanced as it was around the
 - [[Loot/Guns\|Guns]]
 ## Locations
 - [[Pot/Locations/Kingdom of Pot\|Kingdom of Pot]]
+- [[Test Page\|Test Page]]
