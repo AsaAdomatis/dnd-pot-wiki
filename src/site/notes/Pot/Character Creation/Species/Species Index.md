@@ -11,7 +11,7 @@ The following list contains homebrew races I've made specifically for campaigns 
 - [[Pot/Character Creation/Species/Goozers\|Goozers]]
 - [[Pot/Character Creation/Species/Gorcs\|Gorcs]]
 - [[Pot/Character Creation/Species/Half-Gorcs\|Half-Gorcs]]
-- [[Pot/Character Creation/Species/Weirds\|Weirds]]
+- [[Pot/Character Creation/Species/Weirds (Archived)\|Weirds (Archived)]]
 - [[Pot/Character Creation/Species/Wildlings\|Wildlings]]
 ## Other Species
 While any species can fit into a campaign in the Kingdom of Pot, here are some standout races, including some other homebrews I'll allow.

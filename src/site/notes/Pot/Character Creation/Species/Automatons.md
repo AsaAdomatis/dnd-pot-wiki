@@ -6,7 +6,7 @@
 > Automatons are mechanical creatures of diverse backgrounds. However, all share in the fact that they were built by a creator. True automaton's creators are most likely lost to time, while Fishborgs are all created by a single man. An automatons structure reflects their purpose. Some endlessly pursue their reason for creation, while others have developed priorities of their own.
 
 - **Ability Score Increase.** Your Constitution increases by 1.
-- **Age.** True automatons are ancient and from a barely known age, while Fishborgs  are cannot be older than 144, and Scrap Chaps age can range from 1 - 100 depending on the quality of their construction.
+- **Age.** True automatons are ancient and from a barely known age, while Fishborgs cannot be older than 144, and Scrap Chaps age can range from 1 - 100 depending on the quality of their construction.
 - **Size.** Your size is Medium or Small. Automatons can in size from 1ft - 10ft. Your height will be dependent on why you were created; most Fishborgs are 3.5 to 5.5ft.
 - **Speed.** You base walking speed is 30ft.
 - **Automatonic Resilience.** Being of unnatural make, you have the following benefits:
@@ -14,6 +14,7 @@
 	- You are immune to disease.
 - **Unarmored Defense.** Your metallic plating gives you a built in protection. While not wearing armor, you have an AC of 12 + Dexterity Modifier
 - **Variety of Builds.** Choose a chassis.
+- **Variety of Forms.** Choose a form.
 
 ## Chassis
 ### Specialized
@@ -39,20 +40,21 @@
 - **Ability Score Increase.** Your Spell Casting Ability score increases by 1. If you do not have one, your Intelligence score increases by 1 and becomes your Spell Casting Ability.
 - **Built-In Magic.** You know one cantrip of your choice from the Wizard spell list. Once you reach 3rd level, you learn one 1st level spell of your choice from the Wizard spell list. Once you reach 5th level, you learn one 2nd level spell of your choice from the Wizard spell list. Once you cast your 1st level or 2nd level spell with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 - **Arcane Computation.** You are you own spellcasting focus.
+## Forms
 
-## True Automatons
+### True Automatons
 
 - **Sentry's Rest.** When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
 - **Expertly Powered.** Your ancient enigmatic power source is self-sufficient and requires no inputs to continue operation, represented by the following benefits:
 - You don't need to eat, drink, or breath.
 - You don't suffer the effects of exhaustion due to lack of rest , and magic can't put you to sleep.
 
-## Scrap Chaps
+### Scrap Chaps
 
 - **Brave.** You have advantage on saving throws against being frightened.
 - **Simple Construction.** You can be repaired by any player with the right tools. Once per short rest another player may use artisan tools to restore your HP equal to your hit die + Constitution modifier.
 
-## Fishborgs
+### Fishborgs
 
 > Fishborgs are all the invention of [[Jeremy Fishborg\|Jeremy Fishborg]], a fisherman lost at sea and save by fished. In his effort to repay those who save his life, he builds mechanical automatons to give the most intelligent fish a shot at integrating with terrestrial life. Once in each of their lives, Fishborg will make a pilgrimage
 
