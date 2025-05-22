@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/pot/character-creation/species/weirds/"}
 ---
 
+
 # Weirds
 #character-creation  #species #genasi #elemental
+
 ## Lore
 
 Classical weirds are non-sentient elemental beings bound to a location. Weirds are offshoots of weirds who have gained sentience and broken the bonds of their home location. While they are still elemental beings at their core, a powerful connection to illusory magic and strategic link to mystical artifacts allows them to leave their grottos and volcanoes and explore the continent of Pan as full Cicebians.
