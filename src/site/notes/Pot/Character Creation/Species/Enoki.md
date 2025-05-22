@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/pot/character-creation/species/enoki/"}
 ---
 
-
+# Enoki
+## Lore
 ### Physical Description
 
 Enokis appearance's vary based on the fruiting body of the fungus they grew from. They lack a neck and their bodies and limbs are extensions of the mushroom's stalk.
@@ -17,7 +18,7 @@ Since Enoki do not need to communicate verbally, they do not develop true names 
 
 **Enoki Names:** Leaves Falling in Moonlight, Umbrella in a Storm, Ships Burning at Sea, Crows on a Roof, Warmth of the Hearth, Fresh Baked Bread.
 
-### Species Traits
+## Mechanics
 
 - **Ability Score Increase.** Your Wisdom score increases by 2 and your Charisma score increases by 1.
 - **Creature Type.** You are a plant.

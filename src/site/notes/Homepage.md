@@ -17,7 +17,7 @@ However, this doesn't make magic uncommon, it just makes it either expensive or 
 ## Culture
 As for culture, Pot is also a boiling cauldron of sentient peoples and its oldest city, the city of Shoe exemplifies this ideal. The classic races of D&D interweave themselves with many homebrew races like [[Pot/Character Creation/Species/Weirds (Archived)\|Weirds (Archived)]] and [[Pot/Character Creation/Species/Wildlings\|Wildlings]] in such a way that a dancing skeleton or a fish controlling a robot wouldn't warrant a second look.
 
-The [[Pot/Lore/Deities\|deities of Pan]] are also very different from standard D&D settings. They are separated into two major categories, Titans and Gods. Titans are like forces of nature. They effect your life even if you don't know about them. They do not demand grand action, but they do ask for action in accordance with their domain. On the other hand, Gods are like people. They are powerful and temperamental. If you provide tribute, you feel great actionable, but spite them and you will feel their wrath.
+The [[Pot/Lore/Deities/Deities\|deities of Pan]] are also very different from standard D&D settings. They are separated into two major categories, Titans and Gods. Titans are like forces of nature. They effect your life even if you don't know about them. They do not demand grand action, but they do ask for action in accordance with their domain. On the other hand, Gods are like people. They are powerful and temperamental. If you provide tribute, you feel great actionable, but spite them and you will feel their wrath.
 
 ## Non-magic Tech
 Pan is generally low tech, with technology only as advanced as it was around the early 19th century. Black powder and steam engines are recent and highly experimental inventions and  haven't been widely adopted because of more accessible magic. Few exception exist however, like the Iron Roadrunner, a semi-magical steam train that runs from the Dwarvish mountains of Stonton across the Nailian desert to the capital of Pan.
@@ -28,4 +28,4 @@ Pan is generally low tech, with technology only as advanced as it was around the
 - [[Pot/Character Creation/Backgrounds/Background Index\|Backgrounds]]
 - [[Loot/Guns\|Guns]]
 ## Locations
-- [[Pot/Locations/Kingdom of Pot\|Kingdom of Pot]]
+- [[Pot/Locations/Abyssal City\|Abyssal City]]

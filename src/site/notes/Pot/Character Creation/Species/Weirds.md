@@ -39,7 +39,7 @@ The status and interspecies standings are based on which clan a Formed Weird com
 **Formed Weirds** are called to adventure by their clan. As part of the [[Rite of Many Faces\|Rite of Many Faces]] young Formed Weirds are center into the world to find their purpose before returning back to their homeland. Occasionally, Formed Weirds birthed with a specific quest of importance to their clan which they are sent out to complete.
 
 **Fluke Weirds** are just nomads...
-## Mechanics
+## Species Traits
 - **Ability Score Increase.** Your Intelligence score increases by 1.
 - **Creature Type.** You are Humanoid and Elemental
 - **Size.** Your size is medium or small. You choose the size when you select this race.
