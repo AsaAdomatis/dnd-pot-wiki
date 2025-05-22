@@ -46,7 +46,7 @@ The status and interspecies standings are based on which clan a Formed Weird com
 - **Rarity.** You are uncommon in the Kingdom of Pot occupying about 15% of the city's population.
 - **Speed.** Your base walking speed is 30 feet.
 - **Languages.** You can speak, read, and write Common and one other language that you and your DM agree is appropriate.
-- **Elemental Origin.**  You have an elemental origin. Below you may select  up to 2 elements between Fire, Water, Earth, and Air. If you select two elements, you are the combination element as listed in the table below.
+- **Elemental Origin.**  You have an elemental origin. Below you may select up to 2 elements between Fire, Water, Earth, and Air. If you select two elements, you are the combination element as listed in the table below.
 
 |           | **Fire** | **Water** | **Earth** | **Air** |
 | --------- | -------- | --------- | --------- | ------- |
