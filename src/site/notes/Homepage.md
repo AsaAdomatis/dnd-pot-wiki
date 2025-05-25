@@ -3,7 +3,7 @@
 ---
 
 # Welcome to the Kingdom of Pot Setting
-<sup>3</sup> The Kingdom of Pot and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. This manifests in themes of regrowth and reconstruction. The major cities of Pan are built upon the ruins of prehistoric civilizations and the magic of the world is weak and untapped.
+The Kingdom of Pot and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. This manifests in themes of regrowth and reconstruction. The major cities of Pan are built upon the ruins of prehistoric civilizations and the magic of the world is weak and untapped.
 
 
 ![Geographical Map of Pan Hi-Rez.png](/img/user/Images/Geographical%20Map%20of%20Pan%20Hi-Rez.png)
