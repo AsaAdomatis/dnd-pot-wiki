@@ -20,4 +20,4 @@ You command the air and earth to stir particles of dust, ash, or sand in your vi
     
 You can have up to three of these effects active at once, and you can dismiss them as a bonus action.
 
-**Lineage.** [[Pot/Character Creation/Species/Weirds\|Dust Weird]]
+**Lineage.** [[Pot/Character Creation/Species/Weirders\|Dust Weird]]

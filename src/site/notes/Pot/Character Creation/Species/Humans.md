@@ -19,7 +19,7 @@ Humans look like humans, but your nationality gives you additional options.
 Human cultured is varied. However, they're are consistently adaptable and enjoy specializing.
 
 #### Homes
-You can find humans across every nation in Pan. However, they are particularly rare in [[Stonton\|Stonton]]  [[Elvilae\|Elvilae]], and [[Dabadem\|Dabadem]] and uncommon in the [[Pot/Locations/Kingdom of Pot\|Kingdom of Pot]].
+You can find humans across every nation in Pan. However, they are particularly rare in [[Stonton\|Stonton]],  [[Elvilae\|Elvilae]], and [[Dabadem\|Dabadem]] and uncommon in the [[Pot/Locations/Kingdom of Pot\|Kingdom of Pot]].
 
 ## Species Traits
 Humans are diverse and adaptable.
