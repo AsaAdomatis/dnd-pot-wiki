@@ -4,8 +4,43 @@
 
 
 # Weirds
-#character-creation  #species #genasi #elemental 
+#character-creation  #species #genasi #elemental
 
+## Lore
+
+Classical weirds are non-sentient elemental beings bound to a location. Weirds are offshoots of weirds who have gained sentience and broken the bonds of their home location. While they are still elemental beings at their core, a powerful connection to illusory magic and strategic link to mystical artifacts allows them to leave their grottos and volcanoes and explore the continent of Pan as full Cicebians.
+
+Weirds are formed when a artifact is placed into or winds up in a magical elemental source like a volcano, pool, or sand dune. The magical artifact works like anchor allowing the elemental to manifest sentience and rise as a full-fledged being. The elemental birth shapes the whole essence of Weirds.  
+
+Further, Weirds are split into two main categories: flukes and formed. Flukes are the result of an artifact falling into an elemental location. There existence is an accident. Formed are weirds who were born by a creator for a purpose. In the era of shackles, they were often created for servitude, but in modern times, formed weirds are created by a clan of other weirds, intentionally created to add another member to their family.
+### Appearance: Elements and Remnants
+Weirds appearance is shaped by illusory and elemental magic and is highly customizable. Weirds can freely combine allusions of their elemental form alongside humanoid elements at will, but they must always incorporate the appearance/aesthetic of their anchor, the magical artifact within them, into their appearance in some capacity.
+
+**Fluke Weirds** appearance is primarily elemental as they aren't born into a society. Because of this lack of purpose in their appearance, a Fluke Weird's appearance is always slightly in flux and can change dramatically over long periods of time.
+
+**Formed Weirds** have two stages of appearance: one at youth and one at maturity. When born into the world by their clan, the clan uses their magic to shape their appearance. This varies clan-to-clan, but in most cases, it is a highly humanoid form in order to better conform to normal society. However, when a clan deems a youth mature, they are allowed to craft their own form in a life-event for each Weird called the [[Rite of Many Faces\|Rite of Many Faces]]. Since the appearance holds great meaning and importance to Formed Weirds, the only time they can change their appearance is during the [[Rite of Many Faces\|Rite of Many Faces]].
+
+**Examples:** 
+- An stout dwarf-looking man with dark red skin, glowing rocks of magma on his forearms, and a three black-steel horns in the shape of the tips of a trident.
+- An thin elvish person with pale blue skin and head of stirring water hair with a magical red gem on their forehead
+- A swirling cloud of black soot a top a pitch-black muscular body with lines of blue energy in the shapes of runes carved into every surface of the figure.
+
+### Culture: Clans and Wanderers
+**Anchors, Life, and Death:** Anchors are the magical artifact giving Weirds sentience and freedom. Anchors alter Weirds aging and ancestry. Weirds last as long as the power within their anchor lasts, but the magic within anchors if finite. It is drained additionally over time by a Weirds animation. So, Weird's lifespan often ranges anywhere from 80 - 200 years. Their anchor can't be restored within their life to extend, but after their passing, a Weirds anchor can be restored and recharged to power and used to create an additional Weird. This creates a pseudo-lineage to all Formed Weirds.
+
+**Formed Weird's** society is tightly knit. Since every Formed Weird is intentionally created, they are often held to very high expectations. They my be born to replace a previous member that's passed, or to fill an empty job. This tight society is accompanied by a dogmatic world view. For example, in [[Pot/Locations/Bibb\|Bibb]] there is a holy fountain blessed by the [[Guardian of the Northeastern Waters\|Guardian of the Northeastern Waters]]. The resulting Bibbian Water Weirds originating from the fountain are born to tend to the Great Chapel of the [[Pot/Lore/Organizations/Church of Hurricanes\|Church of Hurricanes]] there.
+
+**Fluke Weirds** are wanders and outlanders. Born from magical-happenstance, they either see their freedom as a chance to care for and tend to their place of creation or they see it their gift of mobility as a call to explore the world beyond
+
+As a additional aside, Weirds have no sex: they do not reproduce. If they take on a gender, its often only to mimic their birth-society. 
+
+### Status: Clan Standings
+The status and interspecies standings are based on which clan a Formed Weird comes from. Fluke weirds have no particular status.
+
+### Adventuring: Nomads and Rites
+**Formed Weirds** are called to adventure by their clan. As part of the [[Rite of Many Faces\|Rite of Many Faces]] young Formed Weirds are center into the world to find their purpose before returning back to their homeland. Occasionally, Formed Weirds birthed with a specific quest of importance to their clan which they are sent out to complete.
+
+**Fluke Weirds** are just nomads...
 ## Species Traits
 - **Ability Score Increase.** Your Intelligence score increases by 1.
 - **Creature Type.** You are Humanoid and Elemental
@@ -82,3 +117,4 @@ If you are an elemental combination, you have some additional choices listed in 
 | Lvl. 1 Spell | [Gust of Wind](https://dnd5e.wikidot.com/spell:gust-of-wind)     | [Earth Tremor](https://dnd5e.wikidot.com/spell:earth-tremor) | [Fog Cloud](https://dnd5e.wikidot.com/spell:fog-cloud)          | [Entangle](https://dnd5e.wikidot.com/spell%3Aentangle)   |                                                                        |                                                          |
 | Lvl. 2 Spell |                                                                  | [Heat Metal](https://dnd5e.wikidot.com/spell:heat-metal)     |                                                                 |                                                          | [Rime's Binding Ice](http://dnd5e.wikidot.com/spell:rimes-binding-ice) | [Dust Devil](https://dnd5e.wikidot.com/spell:dust-devil) |
 
+test
