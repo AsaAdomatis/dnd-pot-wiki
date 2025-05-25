@@ -89,3 +89,24 @@ You gain additional traits based on your elemental origin. If you are of a combi
 - **Chilling Presence.** Water freezes around you slowly. You can walk on top of water at half your movement speed, but it breaks behind you as move.
 - **Icy Preservation.** Through your chilling touch, you can slow peoples body functions. Once per long rest, you can touch one willing creature and send it into a stasis. It is paralyzed, but stops disease and poison during the time, and stops making death saving throws.
 
+#### Inherent Magic
+Select a cantrip, level 1 spell, and level 2 spell using only options of your selected elements. If you are a combination, you may select additional options. 
+- These spells can be cast without requiring a material component
+- The non-cantrip spells can’t be again until you finish a long rest
+- Intelligence, Wisdom, or Charisma can be used as your spellcasting ability for these spells (choose when you select this species)
+- Exceptions exist, listed in the footnote
+- You can cast any of the learned spells using any spell slots you have of the appropriate level
+
+**EXCEPTIONS:**
+- <sup>1</sup> -> Only available to Fluke Weirds
+- <sup>2</sup> -> Only available to Formed Weirds
+- <sup>3</sup> -> You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest. If you take this cantrip, you cannot take a 1st level spell.
+
+**Additional Choices for Combinations:** 
+If you are an elemental combination, you have some additional choices listed in the table below.
+
+|              | Steam                                                            | Magma                                                        | Smoke                                                           | Mud                                                      | Ice                                                                    | Dust                                                     |
+| ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------- |
+| Cantrip      | [Create Bonfire](https://dnd5e.wikidot.com/spell:create-bonfire) |                                                              | [Shocking Grasp](http://dnd5e.wikidot.com/spell:shocking-grasp) | [Mold Earth](https://dnd5e.wikidot.com/spell:mold-earth) | [Ray of Frost](http://dnd5e.wikidot.com/spell:ray-of-frost)            | [[Pot/Spells/Dust Whirl\|Dust Whirl]]                                           |
+| Lvl. 1 Spell | [Gust of Wind](https://dnd5e.wikidot.com/spell:gust-of-wind)     | [Earth Tremor](https://dnd5e.wikidot.com/spell:earth-tremor) | [Fog Cloud](https://dnd5e.wikidot.com/spell:fog-cloud)          | [Entangle](https://dnd5e.wikidot.com/spell%3Aentangle)   |                                                                        |                                                          |
+| Lvl. 2 Spell |                                                                  | [Heat Metal](https://dnd5e.wikidot.com/spell:heat-metal)     |                                                                 |                                                          | [Rime's Binding Ice](http://dnd5e.wikidot.com/spell:rimes-binding-ice) | [Dust Devil](https://dnd5e.wikidot.com/spell:dust-devil) |
