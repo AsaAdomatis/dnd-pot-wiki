@@ -13,4 +13,4 @@ You sling a whip made of water at the target. Choose one creature you can see wi
 
 **At Higher Levels.** This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
-**Lineage.** [[Pot/Character Creation/Species/Weirders\|Water Weirds]]
+**Lineage.** [[Pot/Character Creation/Species/Weirds\|Water Weirds]]

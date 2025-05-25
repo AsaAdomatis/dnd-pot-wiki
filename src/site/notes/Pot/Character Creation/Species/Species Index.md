@@ -12,7 +12,7 @@ The following list contains homebrew races I've made specifically for campaigns 
 		- Spiritual Orcs -> [[Morcs\|Morcs]]
 		- Intelligent Orcs -> [[Pot/Character Creation/Species/Gorcs\|Gorcs]]
 		- Kind Orcs -> [[Pot/Character Creation/Species/Half-Gorcs\|Half-Gorcs]]
-	- Highly Customizable Elementals -> [[Pot/Character Creation/Species/Weirders\|Weirders]]
+	- Highly Customizable Elementals -> [[Pot/Character Creation/Species/Weirds\|Weirds]]
 	- Highly Customizable Furries -> [[Pot/Character Creation/Species/Wildlings\|Wildlings]]
 - **Exotic:**
 	- Interconnect, Whistling Mushrooms -> [[Pot/Character Creation/Species/Enoki\|Enoki]]
