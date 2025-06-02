@@ -53,7 +53,7 @@ Beginning at 10th level, you primal elemental form becomes so powerful it cannot
 
 You gain these immunities and absorptions while you are raging. 
 
-## Level 14: One with the Area
+## Level 14: One with your Origin
 Beginning at 14th level, you gain the ability to navigate the elements as if they were your own. As long as your are touching an area/object of 1 of your elemental origins, as a bonus action, you may teleport up to 30 feet to an unoccupied space that is continuously connected to the area/object your are touching.
 
 If you have only one elemental origin, you gain 1d6 temporary hit points.
