@@ -5,8 +5,7 @@
 # Barbarian: Path of the True Elemental
 #subclass #barbarian #weird 
 
-
-A paragraph describing the lore and theme of the subclass.
+Barbarians who find the Path of the True Elemental realize their inner elemental potential, accessing it to gain abilities beyond the normal capacity of Weirds.
 
 ## Restriction: Weirds Only
 Only [[Pot/Character Creation/Species/Weirds\|Weirds]] can follow the Path of the True Elemental. A true elemental access Weirds base elemental form and expands on it.
@@ -36,11 +35,11 @@ Starting when you choose this path at 3rd level, you can access your true, prima
 
 
 ## Level 6: Core Sight
-Beginning at 6th level, you gain the ability to perceive the core elemental components that make up the material and element planes. You have blindsight with a range of 10 feet that can be used to see objects (including creatures) from the elemental and material planes. During your rage, this range increase to 30 feet.
+Beginning at 6th level, you gain the ability to perceive the core elemental components that make up the material and element planes. You have blindsight with a range of 10 feet that can be used to see objects (including creatures) from the elemental and material planes. During your rage, this range increases to 30 feet.
 
 
 ## Level 10: Elemental Absorption
-Beginning at 10th level, you primal elemental form becomes so powerful it cannot be harmed by its core element. If you are of a singular elemental origin, you gain immunity to the damage type as listed below, and when you would be dealt damage by that type, you instead heal that damage. If you are of a combination elemental origin, you gain immunity to both damage types of your elemental origin. The immunities are listed below:
+Beginning at 10th level, you primal elemental form becomes so powerful it cannot be harmed by its core elements. If you have one elemental origin, you gain immunity to the damage type as listed below, and when you would be dealt damage by that type, you instead heal that damage. If you have a combination elemental origin, you gain immunity to both damage types of your elemental origin. The immunities are listed below:
 
 | **Origin Element** | **Immunity Type**             |
 | ------------------ | ----------------------------- |
@@ -66,7 +65,6 @@ For this feature, some specification on the area/object of elemental origin is r
 - Water -> Water or ice
 - Earth -> Stone, metal or dirt
 - Air -> A cloud of any kind 
-
 
 ## Level 20: Master of the Material
 Starting at 20th level, you become the embodiment of all elemental energy. You can alter your elemental origin, changing you appearance and your primal elemental form. When you finish a long rest, you may change your elemental origin provided in the [[Pot/Character Creation/Species/Weirds\|Weird]] species. You may reselect qualities for each of your species traits when you do this.
