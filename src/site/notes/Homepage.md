@@ -26,6 +26,7 @@ Pan is generally low tech, with technology only as advanced as it was around the
 ## Character Creation Options
 - [[Pot/Character Creation/Species/Species Index\|Races/Species/Lineage]]
 - [[Pot/Character Creation/Backgrounds/Background Index\|Backgrounds]]
+- [[Pot/Character Creation/Class & Subclasses/Class & Subclass Index\|Classes & Subclasses]]
 - [[Loot/Guns\|Guns]]
 ## Locations
 - [[Pot/Locations/Abyssal City\|Abyssal City]]
