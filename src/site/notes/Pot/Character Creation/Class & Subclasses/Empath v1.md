@@ -138,9 +138,8 @@ As an action, choose one creature within 60 feet of you that can see or hear you
 
 The target must make a **Wisdom or Charisma saving throw** (your choice) against your **Mote Save DC**. A creature may choose to automatically fail this saving throw.
 
-- **On a failed save**, if you expended any **Mote Dice**, the target is affected by the selected **Emotional Effect**. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]].
+- **On a failed save**, if you expended any **Mote Dice**, the target is affected by the selected **Emotional Effect**. The strength of the effect is determined by the result of the Mote Die rolled plus your **Mote Ability Modifier**  as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]].
 - If the target is an enemy and it fails the saving throw, it also takes **1d8 + the total of the expended Mote Dice** in psychic damage.
-- If the target is an ally, it gains temporary hit points equal to the **expended Mote Dice** **total**.
 
 ##### Outburst
 
@@ -150,7 +149,6 @@ The targets must make a **Wisdom or Charisma saving throw** (your choice) agains
 
 - If you expended any **Mote Dice**, the targets which failed the saving throw are affected by the selected **Emotional Effect**. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]].
 - The enemy targets that failed the saving throw also takes **1d4 + the total of the expended Mote Dice** in psychic damage.
-- If the target is an ally, it gains temporary hit points equal to the **expended Mote Dice** **total**.
 
 ##### Imbuement
 
