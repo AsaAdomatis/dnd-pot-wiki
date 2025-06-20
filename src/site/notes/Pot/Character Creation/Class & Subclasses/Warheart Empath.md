@@ -55,4 +55,4 @@ When you roll initiative, you may immediately expend any number of your **Mote D
 
 *Starting at 18th level, your passion as a commander and a warrior is unstoppable.*
 
-when you are reduced to 0 hit points and are not killed outright, you can choose to drop to expend any number of **Mote Dice** and restore that many hit points, preventing your death. Once you use this ability, you can't use it again **until you finish a long rest**.
+When you are reduced to 0 hit points and are not killed outright, you can choose to expend any number of **Mote Dice** and restore that many hit points, preventing your death/unconsciousness. Once you use this ability, you can't use this feature again **until you finish a long rest**.
