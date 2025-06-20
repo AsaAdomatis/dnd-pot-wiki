@@ -4,7 +4,7 @@
 
 # The Abyssal City
 #dungeon #location
-[[Abyssal City - Secret\|Abyssal City - Secret]]
+[[Pot/Locations/Abyssal City - Secret\|Abyssal City - Secret]]
 
 An ancient city located deep under the ocean of the [[Pot/Locations/Kingdom of Pot\|Bay of Pot]]. Part of [[Pot/Locations/Fofam\|Fofam]]'s economy is based around scavenging this city, but the danger and inaccessibility has made the profession unique and highly skilled.  
 

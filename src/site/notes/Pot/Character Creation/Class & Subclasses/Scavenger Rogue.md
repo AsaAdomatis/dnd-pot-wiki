@@ -54,12 +54,12 @@ At 9th level, you gain the ability to inherently detect loot:
 	- Within 120 ft., any item of worth (>1gp) that you can see has a glimmering aura to it only you can see.
 	- Within 60 ft., any item of of worth (>1gp) regardless of if you can see it, produces an glimmering aura of greater intensity that can locate that item within a 10 ft. radius sphere (not exactly the in the center). Within 15 ft., the spheres radius decreases to 5 ft.
 	- The color of this aura changes based on the rarity of the item:
-		- <50gp (non-magic items): white
+		- 50gp- (non-magic items): white
 		- 50-100gp (common magic items): green
 		- 100-500gp (uncommon magic items): blue
 		- 500-5,000gp (rare magic items): purple
 		- 5,000-50,000gp (very rare magic item): orange
-		- >50,000 (legendary magic item): shimmering pink and cyan
+		- 50,000gp+ (legendary magic item): shimmering pink and cyan
 - You know the exact price (within reasonability or $\pm 10\%$) of any item you can touch.
 
 ## Level 9: Haggle Sense
