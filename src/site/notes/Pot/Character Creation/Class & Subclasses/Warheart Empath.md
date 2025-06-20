@@ -12,6 +12,7 @@ Warhearts are powerful leaders in combat who use their expertise of emotions to 
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
+- **Insightful Fighting (Homebrew).** When you attack with a weapon, you can use your Mote Ability Modifier, instead of Dexterity or Strength, for the attack and damage rolls.
 - **Archery (PHB).** You gain a +2 bonus to attack rolls you make with ranged weapons.
 - **Blind Fighting (TCE).** You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 - **Dueling (PHB).** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
