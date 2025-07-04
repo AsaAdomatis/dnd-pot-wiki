@@ -105,13 +105,13 @@ Some of your mote features require your target to make a saving throw to resist 
 
 ##### Learning Emotions
 
-At 1st level, you know 2 emotions from the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]]. You learn an additional emotion at level 5, 9, 13, 17, and 20.
+At 1st level, you know 2 emotions from the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List v1\|Empath Emotions List v1]]. You learn an additional emotion at level 5, 9, 13, 17, and 20.
 
 Additionally, whenever you learn an emotion, you can choose one of the emotions you know and replace it with another emotion that you could learn at that level.
 
 ##### Emotional Usage and Effects
 
-The effects of the emotions are specified in the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]]. These effects vary based on the result of all die spent in the use of a feature.
+The effects of the emotions are specified in the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List v1\|Empath Emotions List v1]]. These effects vary based on the result of all die spent in the use of a feature.
 
 In order to use emotional effects in any capacity, you need to be able to speak or use your body in order to impart these emotions others. If you lose the ability to **move and speak** all your current **Emotional Effects** end.
 
@@ -126,7 +126,7 @@ Emotional effects only effect creatures that have emotions. Below are a list of 
 
 #### Level 1: Emotional Envelopment
 
-As a **bonus action**, you may touch a willing creature (including yourself) and expend any number **Mote Dice**. The target is immediately imbued with your an **Emotional Effect** of your choice. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]].
+As a **bonus action**, you may touch a willing creature (including yourself) and expend any number **Mote Dice**. The target is immediately imbued with your an **Emotional Effect** of your choice. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List v1\|Empath Emotions List v1]].
 
 This emotional effect lasts for **1 minute**, or until it is replaced by another use of this feature. A creature can only benefit from one Emotional Infusion at a time.
 
@@ -138,7 +138,7 @@ As an action, choose one creature within 60 feet of you that can see or hear you
 
 The target must make a **Wisdom or Charisma saving throw** (your choice) against your **Mote Save DC**. A creature may choose to automatically fail this saving throw.
 
-- **On a failed save**, if you expended any **Mote Dice**, the target is affected by the selected **Emotional Effect**. The strength of the effect is determined by the result of the Mote Die rolled plus your **Mote Ability Modifier**  as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]].
+- **On a failed save**, if you expended any **Mote Dice**, the target is affected by the selected **Emotional Effect**. The strength of the effect is determined by the result of the Mote Die rolled plus your **Mote Ability Modifier** , as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List v1\|Empath Emotions List v1]].
 - If the target is an enemy and it fails the saving throw, it also takes **1d8 + the total of the expended Mote Dice** in psychic damage.
 
 ##### Outburst
@@ -147,7 +147,7 @@ As an action, choose any number of creatures within a 10 feet radius of you that
 
 The targets must make a **Wisdom or Charisma saving throw** (your choice) against your **Mote Save DC**. A creature may choose to automatically fail this saving throw.
 
-- If you expended any **Mote Dice**, the targets which failed the saving throw are affected by the selected **Emotional Effect**. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]].
+- If you expended any **Mote Dice**, the targets which failed the saving throw are affected by the selected **Emotional Effect**. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List v1\|Empath Emotions List v1]].
 - The enemy targets that failed the saving throw also takes **1d4 + the total of the expended Mote Dice** in psychic damage.
 
 ##### Imbuement
@@ -156,7 +156,7 @@ As a **bonus action**, you can expend any number of **Mote Dice** to imbue a wea
 
 While imbued, the next time the object or weapon **makes contact with a creature**—such as when you hit with a melee or ranged attack— you may release its emotional energy into that creature. The target must make a **Wisdom or Charisma saving throw** (your choice) against your **Mote Save DC**. A creature may choose to automatically fail this saving throw.
 
-- On a **failed save**, the creature is affected by your current **Emotional Effect**, and you may have the creature take **additional psychic damage equal to the result of the expended Mote Dice**. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List\|Empath Emotions List]].
+- On a **failed save**, the creature is affected by your current **Emotional Effect**, and you may have the creature take **additional psychic damage equal to the result of the expended Mote Dice**. The strength of the effect is determined by the result of the Mote Die rolled, as described in  the [[Pot/Character Creation/Class & Subclasses/Empath Emotions List v1\|Empath Emotions List v1]].
 - On a **successful save**, only the normal attack damage applies.
 
 The **Emotional Effect** is **expended** after the effect is released, hit or miss.
@@ -166,7 +166,7 @@ The **Emotional Effect** is **expended** after the effect is released, hit or mi
 At 3rd level, you choose a complex emotional aspect unique to yourself. This aspect grants you control over a complicated emotion and grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.
 
 **Aspects:**
-- [[Pot/Character Creation/Class & Subclasses/Warheart Empath\|the Warheart]] - Battle Prowess and honor
+- [[Pot/Character Creation/Class & Subclasses/Warheart Empath v1\|the Warheart]] - Battle Prowess and honor
 
 
 #### Level 4: Ability Score Improvement

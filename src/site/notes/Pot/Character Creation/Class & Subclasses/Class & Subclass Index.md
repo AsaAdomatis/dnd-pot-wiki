@@ -10,7 +10,7 @@ Listed below are the completed classes and subclasses allowed in the Kingdom of 
 - Subclasses:
 	- [[Pot/Character Creation/Class & Subclasses/Elemental Barbarian\|Barbarian: Path of the True Elemental]] -> Pure elemental rage form
 	- [[Pot/Character Creation/Class & Subclasses/Scavenger Rogue\|Rogue: Scavenger Archetype]] -> Improvised weapons and haggling
-	- [[Pot/Character Creation/Class & Subclasses/Warheart Empath\|Empath: Aspect of the Warheart]] -> Combat ready empath
+	- [[Pot/Character Creation/Class & Subclasses/Warheart Empath v1\|Empath: Aspect of the Warheart]] -> Combat ready empath
 ## Ideas/In Progress
 - Subclasses:
 	- [[Pot/Character Creation/Class & Subclasses/Pilot Ranger\|Ranger: Conclave of the Giant Pilots]] -> Giant bird riders with guns
