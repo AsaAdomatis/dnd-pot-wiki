@@ -7,6 +7,7 @@
 Listed below are the completed classes and subclasses allowed in the Kingdom of Pot setting. Warning, these are most likely untested, do you boon or bane...
 - Classes:
 	- [[Pot/Character Creation/Class & Subclasses/Empath v1\|Empath, the Master of Emotions]]
+	- [[Pot/Character Creation/Class & Subclasses/Conduit v1\|Conduit, Magical Channeler]]
 - Subclasses:
 	- [[Pot/Character Creation/Class & Subclasses/Elemental Barbarian\|Barbarian: Path of the True Elemental]] -> Pure elemental rage form
 	- [[Pot/Character Creation/Class & Subclasses/Scavenger Rogue\|Rogue: Scavenger Archetype]] -> Improvised weapons and haggling
