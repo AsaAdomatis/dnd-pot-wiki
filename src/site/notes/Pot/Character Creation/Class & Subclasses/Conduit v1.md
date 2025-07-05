@@ -40,7 +40,7 @@ Paragraph about adventuring and rarity in the world.
 | ----- | ----------------- | ---------------------------------------------------------------------------------------------- |
 | 1     | +2                | Magical Conduit, Weapon Mastery, Magic Sight                                                   |
 | 2     | +2                | Conduit Weapon, Channeling Techniques                                                          |
-| 3     | +2                | Conduit Subclass                                                                               |
+| 3     | +2                | Conduit Subclass, Maintable Form                                                               |
 | 4     | +2                | [Ability Score Improvement](http://dnd2024.wikidot.com/paladin:main#Ability-Score-Improvement) |
 | 5     | +3                | Extra Attack                                                                                   |
 | 6     | +3                | Overdrive: 1st Degree                                                                          |
@@ -100,10 +100,11 @@ Some features say you may expend a number of **Channeling Points** to use them. 
 
 #### Conduit Form
 
-As a **bonus action**, you can spend a **Channeling Point** to attempt to enter your **Conduit Form** by making a **DC 8 Constitution saving throw**. On a success, you enter the form until the end of your next turn and can attempt to maintain it each turn thereafter.
+As a **bonus action**, you can spend a **Channeling Point** to attempt to enter your **Conduit Form** by making a **DC 8 Constitution saving throw**. On a success, you enter the form until the end of your next turn and can attempt to maintain it each turn thereafter. 
 - If you run out of **Channeling Points**, you **Conduit Form** immediately ends.
 - You can use your **bonus action** to end your form.
 - While in your form, when you would spend Channeling Points to enhance or fuel another Conduit feature, you may instead spend 1 less point (This can reduce the number of points you spend to 0). Once you use this feature, you can't use it until the beginning of your next turn.
+- Your form can last at most a minute.
 
 While you are in your **Conduit Form**, at the **end of each of your turns** (except the one you used to enter the form), you must repeat the **DC 8 Constitution saving throw** to maintain control.
 - **On a failure**, the form ends immediately and you release a destabilize pulse of energy.
@@ -150,17 +151,17 @@ You can’t pick the same technique more than once unless its description says o
 
 ### Level 3: Conduit Subclass
 
-You gain a Conduit subclass of your choice. The **FILL IN SUBCLASSES** subclasses are detailed below. A subclass is a specialization that grants you features at certain Conduit levels. For the rest of your career, you gain each of your subclass’s features that are of  
-your Conduit level or lower.
-
+You gain a Conduit subclass of your choice. A subclass is a specialization that grants you features at certain Conduit levels. For the rest of your career, you gain each of your subclass’s features that are of  your Conduit level or lower.
 
 | Name                                        |
 | ------------------------------------------- |
 | [[Pot/Character Creation/Class & Subclasses/Shadow Conduit\|Leyline of Shadows]] (IP) |
-| Leyline of Shine (IP)                       |
-| [[Pot/Character Creation/Class & Subclasses/Sage Conduit\|Leyline of Knowledge]]      |
+| [[Pot/Character Creation/Class & Subclasses/Sage Conduit\|Leyline of Knowledge]] (IP) |
 | [[Pot/Character Creation/Class & Subclasses/Fiend Conduit\|Leyline of Royalty]] (v1)  |
 
+### Level 3: Maintainable Form
+
+As long as your not in combat or a highly stressful situation, you can maintain your **Conduit Form** more easily. While not in either of these situations, your **Conduit Form** can last up to an hour, and you make the Constitution saving throw for the form every 10 minutes rather than every turn.
 
 ### Level 4: Ability Score Improvement
 
@@ -168,7 +169,7 @@ You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ab
 
 ### Level 5: Extra Attack
 
-*Starting at 5th level*, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Level 6: Overdrive: 1st Degree
 
