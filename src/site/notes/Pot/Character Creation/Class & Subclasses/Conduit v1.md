@@ -156,10 +156,10 @@ your Conduit level or lower.
 
 | Name                                        |
 | ------------------------------------------- |
-| [[Shadow Conduit\|Leyline of Shadows]] (IP) |
+| [[Pot/Character Creation/Class & Subclasses/Shadow Conduit\|Leyline of Shadows]] (IP) |
 | Leyline of Shine (IP)                       |
-| Leyline of the Sage (IP)                    |
-| [[Fiend Conduit\|Form of the Fiend]]        |
+| [[Pot/Character Creation/Class & Subclasses/Sage Conduit\|Leyline of Knowledge]]      |
+| [[Pot/Character Creation/Class & Subclasses/Fiend Conduit\|Leyline of Royalty]] (v1)  |
 
 
 ### Level 4: Ability Score Improvement
