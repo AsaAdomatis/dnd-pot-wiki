@@ -156,8 +156,8 @@ You gain a Conduit subclass of your choice. A subclass is a specialization that 
 | Name                                        |
 | ------------------------------------------- |
 | [[Pot/Character Creation/Class & Subclasses/Shadow Conduit\|Leyline of Shadows]] (IP) |
-| [[Pot/Character Creation/Class & Subclasses/Sage Conduit\|Leyline of Knowledge]] (IP) |
-| [[Pot/Character Creation/Class & Subclasses/Fiend Conduit\|Leyline of Royalty]] (v1)  |
+| [[Pot/Character Creation/Class & Subclasses/Sage Conduit\|Leyline of Knowledge]] (V1) |
+| [[Pot/Character Creation/Class & Subclasses/Fiend Conduit\|Leyline of Royalty]] (V11) |
 
 ### Level 3: Maintainable Form
 
