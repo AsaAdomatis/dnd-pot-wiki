@@ -13,6 +13,7 @@
 - [[Pot/Spells/Coinflip Conjuration\|Coinflip Conjuration]]
 - [[Pot/Spells/Nipping Nimbus\|Nipping Nimbus]]
 
+**Old Spells:** 
 - [Acid Stream](https://dnd5e.wikidot.com/spell:acid-stream)
 - [Alarm](https://dnd5e.wikidot.com/spell:alarm)
 - [Burning Hands](https://dnd5e.wikidot.com/spell:burning-hands)
@@ -38,12 +39,14 @@
 
 ### Level 2 Spells
 
+- [[Pot/Spells/Discover Arcane Objects\|Discover Arcane Objects]]
+
 - [Blur](https://dnd5e.wikidot.com/spell:blur)
 - [Magic Weapon](https://dnd5e.wikidot.com/spell:magic-weapon)
 - [Gust of Wind](https://dnd5e.wikidot.com/spell:gust-of-wind)
 - [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
 - [Misty Step](https://dnd5e.wikidot.com/spell:misty-step)
-- [Spiritual Weapon](https://dnd5e.wikidot.com/spell:spiritual-weapon) Probably Not
+- [Spiritual Weapon](https://dnd5e.wikidot.com/spell:spiritual-weapon)
 
 ### Level 3
 
