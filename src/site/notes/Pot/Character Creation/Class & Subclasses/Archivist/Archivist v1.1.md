@@ -145,6 +145,7 @@ You determine the archive’s external appearance and its internal aesthetic, wh
 | d12  | Rare      | 500gp           | 5                                                       |
 | d20  | Very Rare | 5,000gp         | 9                                                       |
 | d100 | Very Rare | 7,500gp         | 9 (extremely low variance, but takes up too much space) |
+
 **Casting Spells from the Archive.** To cast a 1st-level spell you have prepared, you may expend one die from your archive and roll it. Add your Intelligence modifier to the result. This is called a **Potency Check**. Consult the table below to determine the level of spell slot generated, which is immediately used to cast the selected 1st-level spell. 
 
 | Result | Level of Spell Slot Generated |
