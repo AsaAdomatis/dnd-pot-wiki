@@ -6,12 +6,13 @@
 # Classes & Subclasses
 Listed below are the completed classes and subclasses allowed in the Kingdom of Pot setting. Warning, these are most likely untested, do you boon or bane...
 - Classes:
-	- [[Pot/Character Creation/Class & Subclasses/Empath v1\|Empath, the Master of Emotions]]
-	- [[Pot/Character Creation/Class & Subclasses/Conduit v1\|Conduit, Magical Channeler]]
+	- [[Pot/Character Creation/Class & Subclasses/Empath/Empath v1\|Empath, the Master of Emotions]]
+	- [[Pot/Character Creation/Class & Subclasses/Conduit/Conduit v1\|Conduit, Magical Channeler]]
+	- [[Pot/Character Creation/Class & Subclasses/Archivist/Archivist v1.1\|Archivist, Antique Aggregator]]
 - Subclasses:
 	- [[Pot/Character Creation/Class & Subclasses/Elemental Barbarian\|Barbarian: Path of the True Elemental]] -> Pure elemental rage form
 	- [[Pot/Character Creation/Class & Subclasses/Scavenger Rogue\|Rogue: Scavenger Archetype]] -> Improvised weapons and haggling
-	- [[Pot/Character Creation/Class & Subclasses/Warheart Empath v1\|Empath: Aspect of the Warheart]] -> Combat ready empath
+	- [[Pot/Character Creation/Class & Subclasses/Empath/Warheart Empath v1\|Empath: Aspect of the Warheart]] -> Combat ready empath
 ## Ideas/In Progress
 - Subclasses:
 	- [[Pot/Character Creation/Class & Subclasses/Pilot Ranger\|Ranger: Conclave of the Giant Pilots]] -> Giant bird riders with guns
