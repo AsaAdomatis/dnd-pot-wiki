@@ -173,6 +173,7 @@ You gain a Archivist subclass of your choice. A subclass is a specialization tha
 
 - [[Pot/Character Creation/Class & Subclasses/Archivist/Coin Archivist\|Favor of the Goldbinder]]
 - [[Pot/Character Creation/Class & Subclasses/Archivist/Seed Archivist\|Favor of the Botanist]]
+- [[Pot/Character Creation/Class & Subclasses/Archivist/Gem Archivist\|Favor of the Gemkeeper]]
 
 ### Level 4: Ability Score Improvement
 
