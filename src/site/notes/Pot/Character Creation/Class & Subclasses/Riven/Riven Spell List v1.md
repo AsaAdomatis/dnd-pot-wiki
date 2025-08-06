@@ -5,7 +5,6 @@
 \*: Items with the asterisk are homebrew.
 
 **1st Level:**
-- .
 - [Expeditious Retreat](http://dnd2024.wikidot.com/spell:expeditious-retreat)
 - [Illusory Script](http://dnd2024.wikidot.com/spell:illusory-script)
 - [[Pot/Spells/Gravity Shift\|Gravity Shift]]*
