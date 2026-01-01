@@ -10,16 +10,16 @@ Listed below are the completed classes and subclasses allowed in the Kingdom of 
 	- [[Homebrew Mechanics/Class & Subclasses/Conduit/Conduit v1\|Conduit, Magical Channeler]]
 	- [[Homebrew Mechanics/Class & Subclasses/Riven/Riven v1\|Riven, the Sunderer Soul]]
 - Subclasses:
-	- [[Homebrew Mechanics/Class & Subclasses/Elemental Barbarian\|Barbarian: Path of the True Elemental]]
-	- [[Homebrew Mechanics/Class & Subclasses/Scavenger Rogue\|Rogue: Scavenger Archetype]] -> Improvised weapons and haggling
+	- [[Pot/Character Creation/Classes & Subclasses/Elemental Barbarian\|Barbarian: Path of the True Elemental]]
+	- [[Pot/Character Creation/Classes & Subclasses/Scavenger Rogue\|Rogue: Scavenger Archetype]] -> Improvised weapons and haggling
 ## Ideas/In Progress
 - Class:
 	- [[Homebrew Mechanics/Class & Subclasses/Empath/Empath v1\|Empath, the Master of Emotions]]
 - Subclasses:
 	- [[Homebrew Mechanics/Class & Subclasses/Empath/Warheart Empath v1\|Empath: Aspect of the Warheart]] -> Combat ready empath
-	- [[Homebrew Mechanics/Class & Subclasses/Pilot Ranger\|Ranger: Conclave of the Giant Pilots]] -> Giant bird riders with guns
+	- [[Pot/Character Creation/Classes & Subclasses/Pilot Ranger\|Ranger: Conclave of the Giant Pilots]] -> Giant bird riders with guns
 	- Artificer: Reclaimer -> Scrapchap maker and old technology reuser
-	- [[Homebrew Mechanics/Class & Subclasses/Autarunian Sorcerer\|Sorcerer: Marked of Autarunia]] 
+	- [[Pot/Character Creation/Classes & Subclasses/Autarunian Sorcerer\|Sorcerer: Marked of Autarunia]] 
 	- [[Guardian Paladin\|Paladin: Oath of the Guardian]]
 	- Empath: Aspect of the Leech
 	- Empath: Aspect of the Master
