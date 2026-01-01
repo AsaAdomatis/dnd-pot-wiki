@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-# Welcome to the Kingdom of Pot Setting
+# 🧙‍♂ Welcome to the Land of Ümm!
 
-The Kingdom of Pot and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. This manifests in themes of regrowth and reconstruction. The major cities of Pan are built upon the ruins of prehistoric civilizations and the magic of the world is weak and untapped.
+>And also the Isle of Pan, the Kingdom of Pot, and the city of Shoe!
+
+The Kingdom of Pot and the greater continent of Pan is a campaign setting designed around whimsy. Its inspiration is primarily taken from Adventure Time and Studio Ghibli. This manifests in themes of regrowth and reconstruction. The major cities of Pan are built upon the ruins of prehistoric civilizations and the magic of the world is weak and untapped. Right now, in the clean year of 
 
 
 ![Geographical Map of Pan Hi-Rez.png](/img/user/Images/Geographical%20Map%20of%20Pan%20Hi-Rez.png)
@@ -15,7 +17,6 @@ The Kingdom of Pot and the greater continent of Pan is a campaign setting design
 ### Factions and Guilds
 
 [[Pot/Lore/Organizations/Skydivers Guild\|Skydivers Guild]]: A group of scavengers who don heavy diving gear and miles of rope to jump of the floating city of [[Pot/Locations/Fofam\|Fofam]] and in the [[Pot/Locations/Abyssal City\|Abyssal City]] city deep in the ocean below.
-
 
 
 ### Faiths, Religions, and Philosophies
@@ -37,41 +38,7 @@ The Kingdom of Pot and the greater continent of Pan is a campaign setting design
 
 ## Peoples
 
-Listed below are brief descriptions of the peoples of [[Pot/Locations/Pan, the Greater Realm\|Pan]]. If they have a particularly interesting or adapted culture and placement, there will also be a page for them.
-
-### Dragonborn
-
-The main strong hold of the Dragon born is the South in [[Nailia\|Nailia]] and [[Goldpan\|Goldpan]]. They are most for living in the desert city Blue and inheriting that same color and the swamp city of [[Muk\|Muk]] amongst the tar dwarves. These tar Dragonborns are usually green and black. While every color appears in a scatter form across the lands of Umm, some particularly odd steely silver ones can be found in the scavenging city of [[Pot/Locations/Shoe\|Shoe]].
-
-### Dwarves
-
-[[Dwarves of Pot\|Dwarves]] have three primary homes, the winding mountain range of [[Stonton\|Stonton]] as the whistle of the wind and the song of the steel, the north of [[Trawlittle\|Trawlittle]] as seafarers and ice tamers, and in the far South as frontiersman and mud divers.
-
-### Elves
-
-[[Elves of Pot\|Elves]] came to the island of Pan and the all-lands of [[Umm\|Umm]] first long ago by leaving their home in Faery and traversing the [[Astral Sea\|Astral Sea]]. This first wave of migrants landed in [[Pot/Locations/Elvilae\|Elvilae]] with part of the Goblinoid escapists deeply intertwining their history. They are marked by their blond to silver hair and skin that's shades of blue. The Drowned, the second of wave of Elves, sought asylum too but were lost at sea in a great astral storm and mysteriously turned up in the tunnels below [[Shaterlan\|Shaterlan]]. The final wave came to claim dominion over all of [[Umm\|Umm]], but were stopped and isolated when the gate to the Astral sea was closed. Some of those who isolated at sea or who chose to stay there were warped by the seas magic and became Astral Elves.
-
-### Gnomes
-
-[[Gnomes of Umm\|Gnomes]] come in three different sizes: small, medium, and large, but nobody has seen the largnome in centuries. The small sort live in the South of [[Trawlittle\|Trawlittle]] among its similar sized wild life while others live in the North of [[Trawlittle\|Trawlittle]] in a spy state amongst the Ice Dwarves. The medium make live in the East of [[Stonton\|Stonton]] where the mountains meet the [[Deepwater\|Deepwater]] Lake. They live high in those mountain ranges and carve roads and city into the rock making isolated sanctuaries.
-
-### Halflings
-
-Unfinished...
-
-### Humans
-
-[[Pot/Character Creation/Species/Humans of Pot\|Humans]] live primarily on the Eastern Coast of Pot in the Nations of [[Merusia\|Merusia]], [[Freland\|Freland]], [[Franklin\|Franklin]], and [[Merukirk\|Merukirk]] with scattered populations in [[Shaterlan\|Shaterlan]]. They also live in the Southwest on the [[Isle of Man\|Isle of Man]].
-
-[[Pot/Character Creation/Species/Orcs of Pot\|Orcs]]: Orcs are split have three main groups Worcs, Gorcs, and Morcs, but there are many other smaller clans with similar names. Worcs are strong and sturdy with gray skin and square, blocky features. Gorcs are intelligent and devoted and with blue skin and classical Orc features, and Morcs are spiritual and empathetic with orange skin and elephant-like features.
-
-### Teiflings
-
-Unfinished...
-
-### Goblins
-
-[[Goblins of Umm\|Goblins]]
+Listed [[Pot/Lore/Peoples/Peoples of Umm\|here]] are brief descriptions of the peoples of [[Pot/Locations/Pan, the Greater Realm\|Pan]]. If they have a particularly interesting or adapted culture and placement, there will also be a page for them.
 
 ## Magic
 
