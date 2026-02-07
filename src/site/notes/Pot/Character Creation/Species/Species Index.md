@@ -6,7 +6,7 @@
 ## Pot Specific
 The following list contains homebrew races I've made specifically for campaigns in the kingdom of pot. Be warned, some are just for fun and a little goofy.
 - **Common:**
-	- [[Pot/Character Creation/Species/Humans\|Humans]]
+	- [[Pot/Character Creation/Species/Humans of Pot\|Humans of Pot]]
 	- **Orcs:**
 		- Combatant Orcs -> [[Worcs\|Worcs]]
 		- Spiritual Orcs -> [[Morcs\|Morcs]]
